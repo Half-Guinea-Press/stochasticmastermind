@@ -3,6 +3,7 @@ theme:
     features:
     - navigation.tabs
     - toc.integrate
+    - navigation.top
     font:
        text: Rufina
        code: Red Hat Mono
