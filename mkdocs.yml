@@ -79,7 +79,6 @@ markdown_extensions:
 plugins:
   - search
   - mermaid2
-  - blog
   - tags
 
 extra_javascript:
