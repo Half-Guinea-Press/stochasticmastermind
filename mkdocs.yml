@@ -78,6 +78,7 @@ markdown_extensions:
 plugins:
   - search
   - mermaid2
+  - blog
 
 extra_javascript:
   - javascripts/mathjax.js
