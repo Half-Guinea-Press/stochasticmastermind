@@ -1,3 +1,3 @@
 *[HTML]: Hyper Text Markup Language
-*[d4]: Four Sided Die :material-dice-d4-outline:
-*[W3C]: World Wide Web Consortium
+*[DevOps]: A methodology in the software development and IT industry. Used as a set of practices and tools, DevOps integrates and automates the work of software development (Dev) and IT operations (Ops) as a means for improving and shortening the systems development life cycle.
+*[DataOps]: A set of practices, processes and technologies that combines an integrated and process-oriented perspective on data with automation and methods from agile software engineering to improve quality, speed, and collaboration and promote a culture of continuous improvement in the area of data analytics.
