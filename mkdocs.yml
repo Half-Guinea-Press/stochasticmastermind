@@ -80,6 +80,7 @@ plugins:
   - search
   - mermaid2
   - blog
+  - tags
 
 extra_javascript:
   - javascripts/mathjax.js
