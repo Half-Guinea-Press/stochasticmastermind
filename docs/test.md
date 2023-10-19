@@ -1,5 +1,5 @@
-``` mermaid
-graph TD
+```mermaid
+graph TD;
   AGILE --> KANBAN;
   AGILE --> SCRUM;
   ANALYSIS --> TECHNICAL DEBT REVIEW;
