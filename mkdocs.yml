@@ -1,7 +1,6 @@
 site_name: The Stochastic Mastermind
 theme:
     features:
-    - navigation.tabs
     - toc.integrate
     - navigation.top
     font:
