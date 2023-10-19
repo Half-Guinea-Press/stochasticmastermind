@@ -2,6 +2,7 @@ site_name: The Stochastic Mastermind
 theme:
     features:
     - navigation.tabs
+    - toc.integrate
     font:
        text: Rufina
        code: Red Hat Mono
