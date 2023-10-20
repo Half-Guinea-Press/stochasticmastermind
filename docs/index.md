@@ -1,11 +1,13 @@
+# What is DevOps?
+
 DevOps is ...
--a methodology
--a set of practices and tools
--a means of improving the system development lifecycle
--a business driver to improve communications and collaboration among development and operations teams
--a philosophy
--a framework
--a ...
+- a methodology
+- a set of practices and tools
+- a means of improving the system development lifecycle
+- a business driver to improve communications and collaboration among development and operations teams
+- a philosophy
+- a framework
+- a ...
 
 Everyone has a different buzz word filled definition for DevOps that is meant to have a decisive and moving impact on their audience to spurn them into thinking they need it without actually understanding what it really means.
 
