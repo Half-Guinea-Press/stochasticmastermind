@@ -6,7 +6,7 @@ This is a test file for this whole thing
 
 ### well maybe
 
-- [DevOps](DevOpsWikipedia.md)
+- [DevOps](Research/DevOpsWikipedia.md)
 - DataOps
 
 - https://en.wikipedia.org/wiki/DevOps
