@@ -1,4 +1,5 @@
 # Value stream Wikipedia Article
+[https://en.wikipedia.org/wiki/Value_stream](https://en.wikipedia.org/wiki/Value_stream)
 
 A value stream is the set of actions that take place to add value to a customer from the initial request through realization of value by the customer. The value stream begins with the initial concept, moves through various stages of development and on through delivery and support. A value stream always begins and ends with a customer.
 
