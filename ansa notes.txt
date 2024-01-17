@@ -1,0 +1,546 @@
+Custom Lineage
+
+Ability Scores: Choose any +2
+Size: Small or Medium
+Speed: 30 ft.
+Instead of choosing one of the game's races for your character at 1st level, you can use the following traits to represent your character's lineage, giving you full control over how your character's origin shaped them:
+
+Creature Type. You are a humanoid. You determine your appearance and whether you resemble any of your kin.
+Size. You are Small or Medium (your choice).
+Feat. You gain one feat of your choice for which you qualify.
+Variable Trait. You gain one of the following options of your choice: (a) darkvision with a range of 60 feet or (b) proficiency in one skill of your choice.
+Languages. You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
+Your race is considered to be a Custom Lineage for any game feature that requires a certain race, such as elf or dwarf.
+
+Source: TCE, page 8
+
+Rune Carver
+
+Skill Proficiencies: History, Perception
+
+Tool Proficiencies: One set of artisan's tools
+
+Languages: Giant
+
+Equipment: A set of artisan's tools (one of your choice), a small knife, a whetstone, a set of common clothes, and a pouch containing 10 gp
+
+Rune Styles
+Each rune carver has a unique style and preferred medium. To determine how you make your runes, you can roll on the Rune Style table.
+
+Rune Style
+d6	Style
+1	You inscribe runes in wax or clay with a fine metal needle.
+2	You whittle pieces of wood into small figurines you mark with runes.
+3	You engrave runes onto glass beads and thread them onto necklaces and bracelets.
+4	You stitch runes into the hems of clothing.
+5	You carve runes on a set of animal bones you can throw in different formations.
+6	You draw runes into candles, melting the wax to smooth over the engravings.
+Building a Rune Carver Character
+Scholarly pursuits, ancient mysteries, or a fateful encounter might inspire a character to pursue the secrets of a rune carver.
+
+Feature: Rune Shaper
+You gain the Rune Shaper feat.
+
+Suggested Characteristics
+The Rune Carver Personality Traits table suggests a variety of traits you might adopt for your character.
+
+d6	Personality Trait
+1	Is it practical to learn an ancient language that is rarely spoken? No. But is it fun? Very.
+2	I learned one of my ancestors was a lauded rune carver whose story was lost to time. I seek to rekindle that legacy.
+3	The old, traditional markings of runecraft look so boring. Why not give my runes some flair?
+4	In my studies of runes, I strive to understand how great civilizations of the past fell, so I can prevent it from happening to societies of the present.
+5	Life may be a whirlwind of chaos, but whenever I create my runes, I feel at peace.
+6	My brain struggles to process words written in ink, but the feeling of carved runes makes my mind sing.
+Source: BGG, page 12
+
+Rune Shaper
+Prerequisites: Spellcasting Feature or Rune Carver
+You've studied the magic of Giant runes, granting you the following benefits:
+Comprehend Languages. You learn the comprehend languages spell. You can cast this spell without expending a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast this spell using any spell slots you have.
+
+Rune Magic. You know a number of runes equal to half your proficiency bonus (rounded down), chosen from the Rune Spells table. Whenever you finish a long rest, you can inscribe each rune you know onto one nonmagical weapon, armor, piece of clothing, or other object you touch. You temporarily learn the 1st-level spells that correspond to the runes you inscribed, as specified on the Rune Spells table, and you know those spells until you finish a long rest, when the runes fade. While you are wearing or carrying any rune-marked object, you can cast the spells associated with those runes using any spell slots you have.
+You can also invoke a rune inscribed on an object you are wearing or carrying and cast its associated spell without expending a spell slot or using material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Your spellcasting ability for this feat is Intelligence, Wisdom, or Charisma (choose when you select this feat).
+Each time you gain a level, you can replace one of the runes you know with another one from the Rune Spells table.
+
+Rune	Spell
+Cloud	Fog cloud
+Death	Inflict wounds
+Dragon	Chromatic orb
+Enemy	Disguise self
+Fire	Burning hands
+Friend	Speak with animals
+Frost	Armor of Agathys
+Hill	Goodberry
+Journey	Longstrider
+King	Command
+Mountain	Entangle
+Stone	Sanctuary
+Storm	Thunderwave
+Source: BGG, page 18
+
+
+Telekinetic
+
+You learn to move things with your mind, granting you the following benefits:
+Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.
+As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
+Source: TCE, page 81
+
+Mage Hand
+Conjuration cantrip
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 minute
+A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
+
+You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
+
+The hand can't attack, activate magic items, or carry more than 10 pounds.
+
+Source: PHB, page 256. Also found in RMR, page 56. Available in the SRD and the Basic Rules.
+
+Minor Illusion
+Illusion cantrip
+Casting Time: 1 action
+Range: 30 feet
+Components: S, M (a bit of fleece)
+Duration: 1 minute
+You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.
+
+If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
+
+If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.
+
+If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
+
+Source: PHB, page 260. Available in the SRD and the Basic Rules.
+
+
+Message
+Transmutation cantrip
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (a short piece of copper wire)
+Duration: 1 round
+You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
+
+You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn't have to follow a straight line and can travel freely around corners or through openings.
+
+Source: PHB, page 259. Available in the SRD.
+
+
+Prestidigitation
+Transmutation cantrip
+Casting Time: 1 action
+Range: 10 feet
+Components: V, S
+Duration: Up to 1 hour
+This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
+
+You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+You instantaneously light or snuff out a candle, a torch, or a small campfire.
+You instantaneously clean or soil an object no larger than 1 cubic foot.
+You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+
+Source: PHB, page 267. Also found in RMR, page 57. Available in the SRD and the Basic Rules.
+
+
+Bless
+
+1st-level enchantment
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M (a sprinkling of holy water)
+Duration: Concentration, up to 1 minute
+You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+Source: PHB, page 219. Also found in RMR, page 50. Available in the SRD and the Basic Rules.
+
+Cure Wounds
+
+1st-level evocation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+Source: PHB, page 230. Also found in RMR, page 52. Available in the SRD and the Basic Rules.
+
+
+Comprehend Languages
+
+1st-level divination (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (a pinch of soot and salt)
+Duration: 1 hour
+For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.
+
+This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language.
+
+Source: PHB, page 224. Also found in RMR, page 52. Available in the SRD and the Basic Rules.
+
+Disguise Self
+
+1st-level illusion
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: 1 hour
+You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
+
+The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
+
+To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC.
+
+Source: PHB, page 233. Available in the SRD and the Basic Rules.
+
+
+Speak with Animals
+
+1st-level divination (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: 10 minutes
+You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM's discretion.
+
+Source: PHB, page 277. Available in the SRD.
+
+
+Find Familiar
+
+1st-level conjuration (ritual)
+Casting Time: 1 hour
+Range: 10 feet
+Components: V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)
+Duration: Instantaneous
+You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
+
+Additional animal form choices may be available at the DM's discretion.
+
+Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.
+
+When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again. As an action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As an action while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you. Whenever the familiar drops to 0 hit points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
+
+While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.
+
+You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen creature.
+
+Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
+
+Source: PHB, page 240. Available in the SRD.
+
+
+Sleep
+
+1st-level enchantment
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (a pinch of fine sand, rose petals, or a cricket)
+Duration: 1 minute
+This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).
+
+Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.
+
+Undead and creatures immune to being charmed aren't affected by this spell.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
+Source: PHB, page 276. Also found in RMR, page 59. Available in the SRD and the Basic Rules.
+
+Unseen Servant
+
+1st-level conjuration (ritual)
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a piece of string and a bit of wood)
+Duration: 1 hour
+This spell creates an invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 hit point, and a Strength of 2, and it can't attack. If it drops to 0 hit points, the spell ends.
+
+Once on each of your turns as a bonus action, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.
+
+If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
+
+Source: PHB, page 284. Available in the SRD.
+
+
+Lesser Restoration
+
+2nd-level abjuration
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
+
+Source: PHB, page 255. Also found in RMR, page 55. Available in the SRD and the Basic Rules.
+
+
+Prayer of Healing
+
+2nd-level evocation
+Casting Time: 10 minutes
+Range: 30 feet
+Components: V
+Duration: Instantaneous
+Up to six creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+
+At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd.
+Source: PHB, page 267. Also found in RMR, page 57. Available in the SRD and the Basic Rules.
+
+
+Hold Person
+
+2nd-level enchantment
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a small, straight piece of iron)
+Duration: Concentration, up to 1 minute
+Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
+
+At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
+Source: PHB, page 251. Also found in RMR, page 54. Available in the SRD and the Basic Rules.
+
+
+Shatter
+
+2nd-level evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a chip of mica)
+Duration: Instantaneous
+A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
+
+A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
+
+At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+Source: PHB, page 275. Available in the SRD and the Basic Rules.
+
+
+Beacon of Hope
+
+3rd-level abjuration
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.
+
+Source: PHB, page 217. Also found in RMR, page 50. Available in the SRD and the Basic Rules.
+
+
+Revivify
+
+3rd-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (diamonds worth 300 gp, which the spell consumes)
+Duration: Instantaneous
+You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.
+
+Source: PHB, page 272. Also found in RMR, page 58. Available in the SRD and the Basic Rules.
+
+
+Counterspell
+
+3rd-level abjuration
+Casting Time: 1 reaction, which you take when you see a creature within 60 feet of you casting a spell
+Range: 60 feet
+Components: S
+Duration: Instantaneous
+You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.
+
+At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
+Source: PHB, page 228. Available in the SRD and the Basic Rules.
+
+ELDRITCH ORB
+Evocation cantrip
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+You fling a ball of eldritch energy at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 force damage, and each other creature within 5 feet of the target must make a Dexterity saving throw. On a failed save, a creature takes half as much damage.
+This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+MINOR LIFESTEAL
+Necromancy cantrip
+Casting Time: 1 action
+Range: 60 feet
+Components: S
+Duration: Instantaneous
+You drain life energy from a hostile creature you can see within range. The target must succeed on a Constitution saving throw or take 1d4 necrotic damage. You then gain temporary hit points equal to the amount of damage dealt, which lasts until you finish a long rest. This spell has no effect on undead or constructs.
+This spell’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4)
+
+CURSE OF CHAINS
+1st-level enchantment
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+A black brand resembling iron shackles darkens the ankles of two creatures you can see. Choose two creatures you can see within range of the spell and within 30 feet of each other to make a Constitution saving throw. A willing creature can choose to fail this saving throw. On a failed save, a target is cursed for the duration. If only one target is cursed by this spell, you can use your action or bonus action on a subsequent turn to choose another target within 30 feet of the cursed creature to make a saving throw. While two creatures are cursed by this spell, they are unable to willingly move further away from each other.
+A remove curse spell ends this curse early
+
+DEAD FOG
+3rd-level necromancy
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+A 15-foot radius sphere of fog, filled with the necromantic Dead Mists, appears centered on a point you can see within range. The fog spreads around corners, and its area is heavily obscured. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured. When you cast this spell, you can empower it with your own life essence by losing 10, 15, or 20 hit points when you cast it. When you do so, treat the spell slot used to cast the spell as being one level higher if you lost 10 hit points, two levels higher if you lost 15 hit points, and three levels higher if you lost 20 hit points, up to a maximum of 9th level.
+When a creature enters the area for the first time on a turn or starts its turn there, it must make a Constitution saving throw, taking 3d8 necrotic damage on a failed save.
+Additionally, when a creature tries to leave the sphere of fog, you can choose for the fog to grasp the creature with misty tendrils. The creature must make a Strength saving throw to leave the fog, and is unable to move on a failed save.
+At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd
+
+RUSTING GRASP
+3rd-level transmutation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+You conjure a potent acid at your fingertips, which can corrode metal and burn flesh. Make a melee spell attack against a creature or object within your reach. On a hit, a creature takes 6d4 acid damage and, if it is wearing nonmagical metal armor or wielding a nonmagical metal shield, you can corrode either its armor or shield. Corroded armor takes a permanent and cumulative -3 penalty to the AC it offers. Armor reduced to an AC of 10 is destroyed. A corroded shield is destroyed.
+If you target a nonmagical metal object with this spell that isn’t being worn or carried, you corrode and destroy parts of the object you choose that can fit within a 1-foot cube. At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 2d4 for each slot level above 3rd. Additionally, you can destroy one additional cubic foot of a nonmagical object for each slot level above 3rd
+
+Witch
+CLASS FEATURES
+As a witch, you have the following class features.
+HIT POINTS
+Hit Dice: 1d8 per witch level
+Hit Points at 1st Level: 8 + your Constitution modifier
+Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per witch level after 1st
+PROFICIENCIES
+Armor: Light armor
+Weapons: Simple weapons, blowguns, shortswords, and whips
+Tools: Alchemist supplies, poisoner’s kit
+Saving Throws: Wisdom, Charisma
+Skills: Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, Nature, and Religion
+EQUIPMENT
+You start with the following equipment, in addition to the equipment granted by your background:
+• (a) a whip and blowgun, (b) a light crossbow and 20 bolts or, (c) any simple weapon
+• (a) a component pouch or (b) an arcane focus
+• (a) a scholar’s pack or (b) a dungeoneer’s pack
+• Leather armor, any simple weapon, and a dagger
+Spellcasting
+You have learned to mold and reshape the magic that curses you into spells.
+CANTRIPS
+You know four cantrips of your choice from the witch spell list. You learn additional witch cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Witch table
+SPELL SLOTS
+The Witch table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+For example, if you know the 1st-level spell bane and have a 1st-level and a 2nd-level spell slot available, you can cast bane using either slot.
+SPELLS KNOWN OF 1ST LEVEL OR HIGHER
+You know two 1st-level spells of your choice from the witch spell list. The Spells Known column of the Witch table shows when you learn more witch spells of your choice.
+Each of these spells must be of a level for which you have spell slots, as shown on the table. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
+Additionally, when you gain a level in this class, you can choose one of the witch spells you know and replace it with another spell from the witch spell list, which also must be of a level for which you have spell slots.
+SPELLCASTING ABILITY
+Charisma is your spellcasting ability for your witch spells. Your magic originates deep within yourself, where your insidious curse stirs restlessly. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a witch spell you cast and when making an attack roll with one.
+Spell save DC = 8 + your proficiency bonus + your Charisma modifier
+Spell attack modifier = your proficiency bonus + your Charisma modifier
+RITUAL CASTING
+You can cast any witch spell you know as a ritual if that spell has the ritual tag.
+SPELLCASTING FOCUS
+You can use an arcane focus as a spellcasting focus for your witch spells
+Witch’s Curse
+Possessed. Your soul is occupied by a foreign spirit that sometimes tries to wrest away your consciousness. However, while you sleep, the spirit whispers magical secrets to you. You learn an additional witch spell at a level for which you have spell slots at 1st level, and again at 4th level, 8th level, and 12th level. These spells do not count against your total number of spells known
+
+Hexes
+You can learn a number of powerful incantations, known as hexes, derived from the same insidious magic which cursed you.
+At 1st level, you gain two hexes of your choice. Your hex options are detailed at the end of the class description. When you gain certain witch levels, you gain additional hexes of your choice, as shown in the Hexes Known column of the Witch table. Additionally, when you gain a level in this class, you can choose one of the hexes you know and replace it with another hex.
+Unless otherwise stated, if a hex calls for an attack roll or saving throw, it uses your spell attack bonus or spell save DC. All hexes require verbal or somatic components (caster’s choice at the time of casting.)
+Unless otherwise noted, if a hex lasts for a duration, you concentrate on it as you would a spell. You can concentrate on a hex and a spell at the same time, and you make only one Constitution saving throw to maintain your concentration on both Cackle
+At 2nd level, you can use your bonus action to cackle. The duration of your hex extends by 1 round for each creature affected within 60 feet of you.
+Not all witches laugh maniacally when they cackle, but all cackles require a verbal component, as a spell. These range from mundane curses and insults, to the murmuring of dead languages and speaking backwards.
+Familiar
+At 2nd level, you learn the find familiar spell and can cast it as a ritual without material components. The spell doesn’t count against your number of spells known. The spell is improved in the following ways:
+• Your familiar takes its turn immediately before or after your turn each round (your choice).
+• Once per turn as an action or a bonus action, you can mentally command your familiar to use its reaction to make one attack.
+• When you cast a spell, you can deliver it through your familiar as if it had cast the spell, even if the spell doesn’t have a range of touch.
+• When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: death snail*, flying book*, homunculus, mock*, moon jelly*, pet rock*, pseudodragon, rag doll*, sprite, tin soldier*, winter wolf pup*, and yarn golem*. The statistics for creatures marked with an asterisk are in Appendix C.
+Witch’s Craft
+Your knowledge of magic has culminated in learning a Craft, an innate variety of magic which exists apart from the schools of magic. When you reach 3rd level, choose one Witch’s Craft. Your choice grants you features at 3rd level, and again at 6th, 10th, and 14th level.
+If your craft grants you a hex at any level, it doesn't count against your total number of hexes known.
+CRAFT SPELLS
+Each craft is associated with a branch of arcana, represented by a number of spells which you learn. The levels of these spells are noted in the craft description. These spells count as witch spells for you and don’t count against your total number of spells known.
+WITCH FAMILIAR
+As a witch, familiars you summon are imbued with your insidious magic, granting them the following benefits:
+• Your familiar can use your spell attack bonus for its attack rolls.
+• Your familiar adds your proficiency bonus to its Armor Class, saving throws, and damage rolls.
+• You add twice your witch level to your familiar’s maximum hit points.
+Insidious Spell
+Starting at 5th level, when you cast a witch spell that affects a creature that is under the effect of your hex, that creature has disadvantage on its first saving throw against the spell. This feature only applies to a hostile creature which is the sole target of your hex
+BECKON FAMILIAR
+You can cast the find familiar spell as an action without expending a spell slot or spell components. Once you cast this spell in this manner, you can’t do so again for 1 minute.
+You must have the Familiar feature to choose this hex
+GO UNSEEN
+As an action, you and your familiar become invisible. The effect ends at the end of your next turn, or if you or your familiar attack or cast a spell.
+Once you cast this hex, you can’t cast it again for 1 minute
+RUIN
+As an action, choose one creature you can see within 60 feet to make a Constitution saving throw. On a failed save, the creature’s Armor Class decreases by 3, to a minimum of 10, until the end of your next turn
+WARD
+As an action, choose 1 creature you can see other than yourself within 60 feet. Each time the creature takes damage before the end of your next turn, it reduces the damage it takes by 3
+
+White Magic
+White magic is fundamentally good and benevolent for all living things. Witches that adopt this craft, in spite of the hateful curse that infects them, often dedicate themselves to healing and caretaking, with the intent of bettering the world.
+White Magic Bonus Spells
+Spell Level Spells
+1st bless, cure wounds
+2nd lesser restoration, prayer of healing
+3rd beacon of hope, revivify
+4th death ward, guardian of faith
+5th mass cure wounds, raise dead
+HEX: REMEDY
+At 3rd level, you learn a hex which closes wounds and eases pain. As an action, choose one creature you can see within 60 feet. This creature regains a number of hit points equal to 1d10 + your witch level. A creature which regains hit points from this hex can’t be affected by it again until it finishes a short or long rest.
+Adroit Analysis
+You can focus your mind to analyze your foe. Beginning at 1st level, you can use a bonus action to analyze one creature you can see within 60 feet, designating it as your Focus. While it is your Focus, you gain the following benefits against it: When you hit it with an attack, or if you observe it for 1 minute, you learn one of the following characteristics of your choice: its highest ability score, lowest ability score, Armor Class, speed, creature type, or one special sense. You can use your Intelligence, instead of your Strength or Dexterity, for weapon attack and damage rolls against it. Once per turn when you hit it with an attack, you deal 1d6 bonus damage. The bonus increases as you gain levels, to match the Intellect Die column of the Savant table above. Any attacks it makes against you have disadvantage. The creature remains your Focus indefinitely. Though, this effect ends if your Focus is hidden from you, if you designate another creature as your Focus, or if you are incapacitated. While you have a Focus, you cannot concentrate on spells or other features that would require your concentration.
+Predictive Defense
+Your analytical style of fighting allows you to better anticipate and dodge hostile attacks. Beginning at 1st level, you can use your Intelligence modifier, in place of Dexterity, whenever you calculate your Armor Class in light or medium armor.
+Scholarly Pursuits
+Never satisfied with your current state you are always looking to expand your educational horizons. At 1st level, you master one Scholarly Pursuit from the list at the end of this class. You master one additional Scholarly Pursuit of your choice when you reach 4th, 7th, 13th, and 18th level in this class.
+Genius Intellect
+Your mind is capable of wondrous bursts of insight, fortitude, and inspiration. At 2nd level, you gain the following benefits:
+Intellect Die
+These increased analytical abilities are represented by your Intellect Die, which begins as a d6. You start knowing three such features that make use of this Intellect Die: Calculated Flourish, Potent Observation, and Wondrous Insight.
+At certain levels, your Intellect Die increases in size, as shown in the Intellect Die column on the Savant table. 
+If one of your Intellect Die features requires a creature to make a saving throw, the save DC is calculated as follows:
+Intellect save DC = 8 + your proficiency bonus + your Intelligence modifier
+Calculated Flourish
+When a creature you can see targets you with a melee attack, you can use a reaction to add one roll of your Intellect Die to your Armor Class against that attack. If the attacker was your Focus and its attack misses, you can make one melee weapon attack against your Focus as part of the same reaction
+Potent Observation
+When another creature that can hear you hits your Focus with an attack, you can use your reaction to grant it a bonus to its damage roll equal to one roll of your Intellect Die.
+Wondrous Insight
+When another creature that can hear you makes an ability check using a skill or tool that you are proficient in, you can use your reaction to grant it a bonus to its roll equal to one roll of your Intellect Die. You can do so after it rolls the d20.
+Sharp Mind
+Your ability to analyze your surroundings is unrivaled. Also at 2nd level, you can use a bonus action on your turn to take the
+Help or Search actions, or make an Intelligence ability check to recall information about a creature or object you can see. Moreover, you can use the Help action to aid a creature in attacking your Focus, so long as you are within 5 feet of the attacker, even when you are not within 5 feet of the target. 
+Academic Discipline
+At 3rd level, choose an Academic Discipline to best represent your Savant's studies: Archaeologist, Investigator, Naturalist, Physician, or Tactician; all detailed at the end of this class. Your Academic Discipline grants you features at 3rd level, and again when you reach 6th, 10th, and finally 15th level. 
+Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+Peerless Insights
+Your mind and its capabilities are truly wondrous. Beginning at 5th level, if another creature that can hear you is forced to make a saving throw, you can use Wondrous Insight to grant it a bonus to its roll equal to one roll of your Intellect Die. Moreover, whenever you make an Intelligence, Wisdom, or Charisma saving throw you can add one roll of your Intellect
+Die to your saving throw, so long as you are not incapacitated.
+Swift Reflexes
+The speed that you observe and react to your surroundings is incredible. Beginning at 5th level, you have a second reaction you can take each round, but only one reaction per effect.
+You gain a third reaction at 13th level and a fourth reaction at 18th level. You can still only use one reaction per effect
+Physician
+Physicians use their considerable intellect to heal the sick and tend to the wounded. They spend their lives studying the anatomy and biology of mortals, and use this knowledge to keep their allies in top condition and cripple foes. Using this medical training, they offer aid to those that do not have access to the luxury of divine magic or other healing spells.
+Student of Medicine
+3rd-level Physician Discipline feature
+You gain proficiency in Medicine and Sleight of Hand. Whenever you make a check with either of these proficiencies you gain a bonus to your roll equal to one roll of your Intellect Die. If you are already proficient in either skill you instead gain proficiency in another skill from the Savant list.
+Moreover, your medical training and insight into anatomy grants you the benefits below: 
+Whenever you would make a Wisdom (Medicine) check, you can make an Intelligence (Medicine) check instead. If you spend 1 minute examining your Focus, you can identify any disease, poison, or curse affecting it. Once per turn, if you hit your Focus with a weapon attack, you can reduce its speed by a number of feet equal to 5 times your Intelligence modifier (minimum of 5 feet) until the beginning of your next turn.
+Combat Medic
+3rd-level Physician Discipline feature
+You have trained to administer medical aid to others, even in the midst of battle. When you finish a short or long rest, one Healer's Kit that you are holding regains all expended uses. Also, your knowledge of medicine grants you the Combat Medic abilities below, each of which takes an action to use. Whenever you use one of your Combat Medic abilities, you can expend up to three uses of a Healer's Kit you are holding and the target regains (additional) hit points equal to one roll of your Intellect Die for each Healer's Kit use you spent.
+Adrenaline Jolt
+You touch another creature that is either blinded, charmed, deafened, frightened, poisoned, or suffering from a disease, and it instantly repeats a saving throw to end that condition with a bonus to its roll equal to one roll of your Intellect Die.
+Dress Wounds
+You touch another creature and it gains temporary hit points equal to one roll of your Intellect Die. This has no effect on a creature at its hit point maximum, and once a creature gains temporary hit points from this feature, you can't target it with this feature again until those temporary hit points are gone.
+Healing Surge
+You touch another living creature and it can expend one of its Hit Dice to regain a number of hit points equal to its Hit Die roll + its Constitution modifier + one roll of your Intellect Die. If you use this ability on a living creature at 0 hit points, it is instantly stabilized even if it does not expend a Hit Die.
